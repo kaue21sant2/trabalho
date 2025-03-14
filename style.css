@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+    background-color: black;
+    color: white;
+}
+
+main{
+    text-align: center;
+    background-color: purple;
+    border-radius: 5px;
+    width: 300px;
+    color: blue;
+    position: absolute;
+    top:  50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+img {
+    width: 200px;
+}
+
+h1 {
+    color: rgba(255, 0, 0, 0.685);
+}
